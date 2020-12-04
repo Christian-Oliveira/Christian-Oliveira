@@ -9,3 +9,8 @@
 - 📫 Como entrar em contato comigo: 
   E-mail: christianoliveirati@gmail.com
   LinkedIn: https://www.linkedin.com/in/christian-d-oliveira/
+
+
+
+## <img height="23" src="https://image.flaticon.com/icons/png/512/25/25231.png"> Meu desempenho no Github
+![Christian Oliveira github stats](https://github-readme-stats.vercel.app/api?username=Christian-Oliveira&show_icons=true&theme=tokyonight)
