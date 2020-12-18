@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
   
   <a href="https://www.instagram.com/krystian.oliveira/" alt="Instagram" target="_blank">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
 </p>
 
 
