@@ -7,18 +7,14 @@
 - 🌱 Estou atualmente focado em Django e Django Rest Framework, mas desejo voltar os meus estudos com Flutter
 - 👯 Sou colaborador na Agência Estadual de Defesa Agropecuária do Maranhão - AGED
 - 📫 Como entrar em contato comigo: 
-  E-mail: christianoliveirati@gmail.com
-  LinkedIn: https://www.linkedin.com/in/christian-d-oliveira/
+  E-mail: <a href="mailto:christianoliveirati@gmail.com">christianoliveirati@gmail.com</a>
   
 <p align="left">
   <a href="https://www.linkedin.com/in/christian-d-oliveira/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
   
   <a href="https://www.instagram.com/krystian.oliveira/" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
-  
-  <a href=mailto:christianoliveirati@gmail.com>Clique aqui para nos enviar um e-mail!
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+  <img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg"/></a>
 </p>
 
 
