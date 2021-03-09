@@ -1,11 +1,17 @@
-### Hi there 👋
+<h1 align="center"> 
+	Bem vindo ao meu GitHub 🚀🎉
+</h1>
+
+### Olá, me chamo Christian Oliveira 👋
 
 <!--
 **Christian-Oliveira/Christian-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 Estou atualmente trabalhando em alguns projetos
-- 🌱 Estou atualmente focado em Django e Django Rest Framework, mas desejo voltar os meus estudos com Flutter
-- 👯 Sou colaborador na Agência Estadual de Defesa Agropecuária do Maranhão - AGED
+- 🌱 Sou desenvolvedor back-end jr;
+- 🔭 Estou atualmente trabalhando em alguns projetos profissionais e pessoais;
+- 🔥 Estou atualmente focado em Django e Django Rest Framework, mas desejo voltar os meus estudos com Flutter;
+- 👯 Sou colaborador na Agência Estadual de Defesa Agropecuária do Maranhão - AGED;
+- ⚡️ Estou sempre disposto a aprender novas tecnologias e ferramentas.
 - 📫 Como entrar em contato comigo:
 <p align="left">
   <a href="https://www.linkedin.com/in/christian-d-oliveira/" alt="Linkedin" target="_blank">
