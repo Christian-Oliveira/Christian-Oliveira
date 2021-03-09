@@ -29,4 +29,4 @@
 ![Christian Oliveira github stats](https://github-readme-stats.vercel.app/api?username=Christian-Oliveira&show_icons=true&theme=tokyonight)
 
 ### 📈  linguagens mais usadas por mim:
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Oliveira&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Oliveira&show_icons=true&theme=tokyonight)
