@@ -6,15 +6,15 @@
 - 🔭 Estou atualmente trabalhando em alguns projetos
 - 🌱 Estou atualmente focado em Django e Django Rest Framework, mas desejo voltar os meus estudos com Flutter
 - 👯 Sou colaborador na Agência Estadual de Defesa Agropecuária do Maranhão - AGED
-- 📫 Como entrar em contato comigo: 
-  E-mail: <a href="mailto:christianoliveirati@gmail.com">christianoliveirati@gmail.com</a>
-  
+- 📫 Como entrar em contato comigo:
 <p align="left">
   <a href="https://www.linkedin.com/in/christian-d-oliveira/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
   
   <a href="https://www.instagram.com/krystian.oliveira/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
+  
+  [![Gmail Badge](https://img.shields.io/badge/-christianoliveirati@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com (mailto:christianoliveirati@gmail.com)
 </p>
 
 
