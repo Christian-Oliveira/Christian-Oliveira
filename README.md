@@ -19,5 +19,8 @@
 
 
 
-## <img height="23" src="https://image.flaticon.com/icons/png/512/25/25231.png"> Meu desempenho no Github
+## <img height="23" src="https://image.flaticon.com/icons/png/512/25/25231.png"> Meu desempenho no Github:
 ![Christian Oliveira github stats](https://github-readme-stats.vercel.app/api?username=Christian-Oliveira&show_icons=true&theme=tokyonight)
+
+### 📈  linguagens mais usadas por mim:
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Oliveira&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
