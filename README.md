@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/krystian.oliveira/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
   
-  [![Gmail Badge](https://img.shields.io/badge/-christianoliveirati@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com (mailto:christianoliveirati@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-christianoliveirati@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)] (mailto:christianoliveirati@gmail.com)
 </p>
 
 
