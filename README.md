@@ -9,7 +9,7 @@
 -->
 - 🌱 Sou desenvolvedor back-end jr;
 - 🔭 Estou atualmente trabalhando em alguns projetos profissionais e pessoais;
-- 🔥 Estou atualmente focado em Django e Django Rest Framework, mas desejo voltar os meus estudos com Flutter;
+- 🔥 Estou atualmente focado em Python com os framework (Django e Django Rest Framework), mas desejo futuramente voltar os meus estudos de Data Science;
 - 👯 Sou colaborador na Agência Estadual de Defesa Agropecuária do Maranhão - AGED;
 - ⚡️ Estou sempre disposto a aprender novas tecnologias e ferramentas.
 - 📫 Como entrar em contato comigo:
