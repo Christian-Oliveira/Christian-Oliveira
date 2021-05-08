@@ -32,12 +32,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://e7.pngegg.com/pngimages/500/498/png-clipart-application-programming-interface-representational-state-transfer-web-api-computer-software-hackathon-api-icon-logo-computer-program-thumbnail.png"></code>
+<code><img height="20" src="https://www.justinszczurowski.com/images/skills/django.png"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPf6PbjNytJyLkP6646m-ACWS0hV5W-PzLWgJbcL0GH8H0eM9glQfReCbRJRRn9jI7WzM&usqp=CAU"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://imagens.tiespecialistas.com.br/2015/02/git.jpg"></code>
-<code><img height="20" src="https://www.pngfind.com/pngs/m/74-744138_mysql-logo-png-mysql-transparent-png.png"></code>
+<code><img height="20" src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
 
 ## <img height="23" src="https://image.flaticon.com/icons/png/512/25/25231.png"> Meu desempenho no Github:
 ![Christian Oliveira github stats](https://github-readme-stats.vercel.app/api?username=Christian-Oliveira&show_icons=true&theme=tokyonight)
