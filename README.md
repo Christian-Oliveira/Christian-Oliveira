@@ -39,6 +39,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
+<code><img height="20" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
 
 ## <img height="23" src="https://image.flaticon.com/icons/png/512/25/25231.png"> Meu desempenho no Github:
 ![Christian Oliveira github stats](https://github-readme-stats.vercel.app/api?username=Christian-Oliveira&show_icons=true&theme=tokyonight)
