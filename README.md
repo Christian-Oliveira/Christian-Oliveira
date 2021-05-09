@@ -10,7 +10,7 @@
 - 🌱 Sou desenvolvedor Back-end Jr (aos poucos me tornando Full Stack);
 - 🔭 Estou atualmente trabalhando em alguns projetos profissionais e pessoais;
 - 🔥 Estou atualmente focado em Python com os framework (Django Rest Framework e Flask), mas desejo futuramente voltar os meus estudos de Data Science;
-- 👯 Sou colaborador na **Inquest** - Empresa especializada em pesquisas patrimoniais e recuperação de crédito;
+- 👯 Sou colaborador na [**Inquest**](https://inquest.com.br/) - Empresa especializada em pesquisas patrimoniais e recuperação de crédito;
 - ⚡️ Estou sempre disposto a aprender novas tecnologias e ferramentas.
 - 📫 Como entrar em contato comigo:
 <p align="left">
