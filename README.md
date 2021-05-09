@@ -7,10 +7,10 @@
 <!--
 **Christian-Oliveira/Christian-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🌱 Sou desenvolvedor back-end jr;
+- 🌱 Sou desenvolvedor Back-end Jr (aos poucos me tornando Full Stack);
 - 🔭 Estou atualmente trabalhando em alguns projetos profissionais e pessoais;
-- 🔥 Estou atualmente focado em Python com os framework (Django e Django Rest Framework), mas desejo futuramente voltar os meus estudos de Data Science;
-- 👯 Sou colaborador na Agência Estadual de Defesa Agropecuária do Maranhão - AGED;
+- 🔥 Estou atualmente focado em Python com os framework (Django Rest Framework e Flask), mas desejo futuramente voltar os meus estudos de Data Science;
+- 👯 Sou colaborador na **Inquest** - Empresa especializada em pesquisas patrimoniais e recuperação de crédito;
 - ⚡️ Estou sempre disposto a aprender novas tecnologias e ferramentas.
 - 📫 Como entrar em contato comigo:
 <p align="left">
