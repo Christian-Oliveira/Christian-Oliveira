@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	Bem vindo ao meu GitHub 🚀🎉
+	Bem vindo ao meu Github 🚀🎉
 </h1>
 
 ### Olá, me chamo Christian Oliveira 👋
@@ -46,6 +46,8 @@
 <code><img height="20" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
 <code><img height="20" src="https://devstickers.com/assets/img/pro/y3fb.png"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/redis-3-1175053.png"></code>
+
+### 📈 Meu Desempenho no Github
 
 <div align="center">
   <a href="https://github.com/Christian-Oliveira">
