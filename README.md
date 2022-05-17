@@ -3,13 +3,13 @@
 </h1>
 
 ### Olá, me chamo Christian Oliveira 👋
-
 <!--
 **Christian-Oliveira/Christian-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🌱 Sou desenvolvedor Back-end Jr (aos poucos me tornando Full Stack);
+- 🌱 Sou desenvolvedor Back-end;
 - 🔭 Estou atualmente trabalhando em alguns projetos profissionais e pessoais;
-- 🔥 Estou atualmente focado em Python com os framework (Django Rest Framework e Flask), mas desejo futuramente voltar os meus estudos de Data Science;
+- 🔥 Estou atualmente focado em Python com os framework (Django, DRF, Flask e FastAPI);
+- 🎨 Ja trabalhei com tecnologias Fron-end também como ReactJS, NextJS, Bootstrap, Tailwind css.
 - 👯 Sou colaborador na [**Inquest**](https://inquest.com.br/) - Empresa especializada em pesquisas patrimoniais e recuperação de crédito;
 - ⚡️ Estou sempre disposto a aprender novas tecnologias e ferramentas.
 - 📫 Como entrar em contato comigo:
