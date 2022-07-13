@@ -10,7 +10,7 @@
 - 🔭 Estou atualmente trabalhando em alguns projetos profissionais e pessoais;
 - 🔥 Estou atualmente focado em Python com os framework (Django, DRF, Flask e FastAPI);
 - 🎨 Ja trabalhei com tecnologias Fron-end também como ReactJS, NextJS, Bootstrap, Tailwind css.
-- 👯 Sou colaborador na [**Inquest**](https://inquest.com.br/) - Empresa especializada em pesquisas patrimoniais e recuperação de crédito;
+- 👯 Sou colaborador na Magazine Luiza - LuizaLabs de Uberlândia trabalhando home office;
 - ⚡️ Estou sempre disposto a aprender novas tecnologias e ferramentas.
 - 📫 Como entrar em contato comigo:
 <p>
