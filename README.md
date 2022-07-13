@@ -10,7 +10,7 @@
 - 🔭 Estou atualmente trabalhando em alguns projetos profissionais e pessoais;
 - 🔥 Estou atualmente focado em Python com os framework (Django, DRF, Flask e FastAPI);
 - 🎨 Ja trabalhei com tecnologias Fron-end também como ReactJS, NextJS, Bootstrap, Tailwind css.
-- 👯 Sou colaborador na Magazine Luiza - LuizaLabs de Uberlândia trabalhando home office;
+- 👯 Sou colaborador na Magazine Luiza (LuizaLabs) e faço parte da squad Backoffice na tribo Lojas;
 - ⚡️ Estou sempre disposto a aprender novas tecnologias e ferramentas.
 - 📫 Como entrar em contato comigo:
 <p>
