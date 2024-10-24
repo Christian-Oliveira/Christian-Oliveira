@@ -6,11 +6,11 @@
 <!--
 **Christian-Oliveira/Christian-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🌱 Sou desenvolvedor Back-end;
+- 🌱 Sou desenvolvedor Full-Stack atualmente atuando com React e Python;
 - 🔭 Estou atualmente trabalhando em alguns projetos profissionais e pessoais;
-- 🔥 Estou atualmente focado em Python com os framework (Django, DRF, Flask e FastAPI);
-- 🎨 Ja trabalhei com tecnologias Fron-end também como ReactJS, NextJS, Bootstrap, Tailwind css.
-- 👯 Sou colaborador na Magazine Luiza (LuizaLabs) e faço parte da squad Backoffice na tribo Lojas;
+- 🔥 Estou atualmente focado em Python com os frameworks (Django, DRF, Flask e FastAPI);
+- 🎨 Ja trabalhei com tecnologias Fron-end também como ReactJS, NextJS, Bootstrap, Tailwind CSS.
+- 👯 Sou colaborador na Magazine Luiza (LuizaLabs) e faço parte da squad Plataforma Backoffice;
 - ⚡️ Estou sempre disposto a aprender novas tecnologias e ferramentas.
 - 📫 Como entrar em contato comigo:
 <p>
@@ -29,23 +29,22 @@
 
 ### 🛠️ Linguagens e Ferramentas  
 
-<code><img height="20" src="https://ionicframework.com/jp/docs/assets/icons/logo-react-icon.png" alt="react"></code>
-<code><img height="20" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://www.justinszczurowski.com/images/skills/django.png"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPf6PbjNytJyLkP6646m-ACWS0hV5W-PzLWgJbcL0GH8H0eM9glQfReCbRJRRn9jI7WzM&usqp=CAU"></code>
+<code><img height="20" src="https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png" alt="ReactJS"></code>
+<code><img height="20" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="NodeJS"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
+<code><img height="20" src="https://www.justinszczurowski.com/images/skills/django.png" alt="Django"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPf6PbjNytJyLkP6646m-ACWS0hV5W-PzLWgJbcL0GH8H0eM9glQfReCbRJRRn9jI7WzM&usqp=CAU" alt="Flask"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>
-<code><img height="20" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
-<code><img height="20" src="https://devstickers.com/assets/img/pro/y3fb.png"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/redis-3-1175053.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode"></code>
+<code><img height="20" src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" alt="Git"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL"></code>
+<code><img height="20" src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" alt="Docker"></code>
+<code><img height="20" src="https://devstickers.com/assets/img/pro/y3fb.png" alt="MongoDB"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/redis-3-1175053.png" alt="Redis"></code>
 
 ### 📈 Meu Desempenho no Github
 
