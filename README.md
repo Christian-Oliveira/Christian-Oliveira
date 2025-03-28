@@ -30,7 +30,7 @@
 ### 🛠️ Linguagens e Ferramentas  
 
 <code><img height="20" src="https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png" alt="ReactJS"></code>
-<code><img height="20" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="NodeJS"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp&w=256" alt="NodeJS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
@@ -39,11 +39,10 @@
 <code><img height="20" src="https://www.justinszczurowski.com/images/skills/django.png" alt="Django"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPf6PbjNytJyLkP6646m-ACWS0hV5W-PzLWgJbcL0GH8H0eM9glQfReCbRJRRn9jI7WzM&usqp=CAU" alt="Flask"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode"></code>
 <code><img height="20" src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" alt="Git"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL"></code>
 <code><img height="20" src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" alt="Docker"></code>
-<code><img height="20" src="https://devstickers.com/assets/img/pro/y3fb.png" alt="MongoDB"></code>
+<code><img height="20" src="https://static-00.iconduck.com/assets.00/database-mongo-db-icon-1954x2048-wrw32e9l.png" alt="MongoDB"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/redis-3-1175053.png" alt="Redis"></code>
 
 ### 📈 Meu Desempenho no Github
